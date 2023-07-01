@@ -2,7 +2,7 @@ const App = () => {
 
 
   const sendQuestion = async () => {
-    const KEY = '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';
+    const KEY = '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';
     let question = 'explique de forma resumida o que é o sol';
     let result = 'teste';
     await fetch('https://api.openai.com/v1/completions', {
