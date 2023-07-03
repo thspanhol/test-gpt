@@ -1,5 +1,9 @@
 const App = () => {
 
+  /* A partir de março de 2023, a OpenAI introduziu mudanças em sua política de preços e acesso à API do ChatGPT. Agora, o acesso à API do ChatGPT é pago e não está mais disponível gratuitamente.
+
+Portanto, para obter uma chave de acesso e usar a API do ChatGPT, é necessário ter uma conta paga na OpenAI ou estar dentro dos limites de uso da versão gratuita oferecida pela OpenAI. */
+
 
   const sendQuestion = async () => {
     const KEY = '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';
